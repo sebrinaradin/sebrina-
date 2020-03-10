@@ -5,14 +5,23 @@
 ##### H5
 ###### H6
 Alt-H1
+
 Alt-H2
+
 *hi*
+
 _hi_
+
 **hi**
+
 __hi__
+
 **hi
+
 _hi_**
+
 ~~bye~~
+
 1.
    hi   
    how are you
